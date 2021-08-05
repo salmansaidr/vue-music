@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "Dengarkan audio keren!"
+  },
+  "manage": {
+    "my_songs": "Lagu Saya"
+  },
+  "register": {
+    "TOS": "",
+    "accept": ""
+  },
+  "song": {
+    "comment_count": ""
+  }
+}
